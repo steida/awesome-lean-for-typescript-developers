@@ -31,6 +31,7 @@ Don't read everything below. Read these in order.
 
 - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/) - A first proof, and why one false axiom breaks everything that depends on it.
 - [Why Am I Betting on Lean 4 for Agentic Coding?](https://theoric.com/blog/why-lean-4-for-agentic-coding/) - Agents lose track of system-wide invariants, and types that prove behavior catch it.
+- [Why Lean Is Faster than Rust](https://kim-em.github.io/blog/2026-7-24-why-lean-is-faster-than-rust/) - A correctness proof lets coding agents optimize a Lean compressor freely, until it outruns Rust's miniz_oxide.
 
 ## Learning Lean
 
@@ -65,6 +66,7 @@ Don't read everything below. Read these in order.
 - [Lean Into Verified Software Development](https://aws.amazon.com/blogs/opensource/lean-into-verified-software-development/) - How AWS builds the Cedar authorization language with Lean models, proofs and differential testing.
 - [Verifying Rust Cryptography in SymCrypt](https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/) - Microsoft proves its Rust ML-KEM and SHA-3 correct in Lean through Aeneas, with agents writing proofs.
 - [Sal](https://github.com/fplaunchpad/sal) - Mergeable replicated data types, including collaborative text, verified in Lean and implemented in JavaScript.
+- [lean-zip](https://github.com/kim-em/lean-zip) - DEFLATE written in pure Lean by coding agents, proved to decompress to the original data for every input.
 
 ## Related Lists
 
